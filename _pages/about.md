@@ -16,6 +16,8 @@ latest_posts:
 
 {% include lab_style.liquid %}
 
+<img class="lab-banner" src="{{ '/assets/img/lab-header.webp' | relative_url }}" alt="Electrochemical sensors, a wearable skin patch, printed electrodes, paper-based microfluidics, smartphone colorimetric analysis and 3D cell cultures">
+
 <div class="lab-hero">
   <div class="lab-tagline">Engineering intelligent sensing technologies for the future of healthcare.</div>
   <p>The IKCU Sensor Lab is part of the Department of Biomedical Engineering at İzmir Kâtip Çelebi University, Türkiye. Led by <strong>Prof. Dr. Mustafa Şen</strong>, we combine electrochemistry, materials science, micro- and nanotechnology, electronics and artificial intelligence to build sensing technologies for biology and medicine.</p>
