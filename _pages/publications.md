@@ -2,144 +2,99 @@
 layout: page
 title: publications
 permalink: /publications/
-description: Selected publications of the IKCU Sensor Lab.
+description: Selected publications of the IKCU Sensor Lab
 nav: true
 nav_order: 4
 ---
 
-Our research group contributes to the scientific literature through original research articles, review papers, conference proceedings, and interdisciplinary collaborations. Our publications span electrochemical and optical biosensors, artificial intelligence, functional nanomaterials, wearable sensing technologies, biomedical microsystems, and cellular analysis.
+{% include lab_style.liquid %}
 
-<!-- To add a publication: copy an entry block below and paste it under the right year. -->
+Our publications span electrochemical and optical biosensors, artificial intelligence, functional nanomaterials, wearable sensing technologies, biomedical microsystems and cellular analysis.
+
+<!-- To add a publication: copy one lab-pub line and paste it under the right year. -->
 
 ## 2026
 
-**Multiplex Biosensors for Comprehensive Health Monitoring: Non-Invasive, Minimally Invasive, and Invasive Platforms**<br>
-Ozbey, S., Akkaş, T., Kaplan, T. E., Polatoğlu, İ., Kurbanoğlu, S., & Şen, M.<br>
-<em>TrAC Trends in Analytical Chemistry, 2026</em> · [DOI](https://doi.org/10.1016/j.trac.2026.118698)
+<div class="lab-pub"><div class="t">Multiplex Biosensors for Comprehensive Health Monitoring: Non-Invasive, Minimally Invasive, and Invasive Platforms</div><div class="a">Ozbey, S., Akkaş, T., Kaplan, T. E., Polatoğlu, İ., Kurbanoğlu, S., & Şen, M.</div><div class="v">TrAC Trends in Analytical Chemistry, 2026 · <a href="https://doi.org/10.1016/j.trac.2026.118698" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Time-Resolved, Label-Free Electrochemical Monitoring of Neurotoxicity via Differential Pulse Voltammetry**<br>
-Türkmen, H., & Şen, M.<br>
-<em>Bioelectrochemistry, 2026</em> · [DOI](https://doi.org/10.1016/j.bioelechem.2025.109214)
+<div class="lab-pub"><div class="t">Time-Resolved, Label-Free Electrochemical Monitoring of Neurotoxicity via Differential Pulse Voltammetry</div><div class="a">Türkmen, H., & Şen, M.</div><div class="v">Bioelectrochemistry, 2026 · <a href="https://doi.org/10.1016/j.bioelechem.2025.109214" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Smartphone-Based Colorimetric Analysis of pH Strips Using Machine Learning**<br>
-Yıldız, E., Şen, M., & Özdemir, M. A.<br>
-<em>Analytical Methods, 2026</em> · [DOI](https://doi.org/10.1039/D6AY00780E)
+<div class="lab-pub"><div class="t">Smartphone-Based Colorimetric Analysis of pH Strips Using Machine Learning</div><div class="a">Yıldız, E., Şen, M., & Özdemir, M. A.</div><div class="v">Analytical Methods, 2026 · <a href="https://doi.org/10.1039/D6AY00780E" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
 ## 2025
 
-**The Role of Artificial Intelligence in Advancing Biosensor Technology: Past, Present, and Future Perspectives**<br>
-Akkaş, T., Reshadsedghi, M., Şen, M., Kılıç, V., & Horzum, N.<br>
-<em>Advanced Materials, 2025</em> · [DOI](https://doi.org/10.1002/adma.202504796)
+<div class="lab-pub"><div class="t">The Role of Artificial Intelligence in Advancing Biosensor Technology: Past, Present, and Future Perspectives</div><div class="a">Akkaş, T., Reshadsedghi, M., Şen, M., Kılıç, V., & Horzum, N.</div><div class="v">Advanced Materials, 2025 · <a href="https://doi.org/10.1002/adma.202504796" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**High-Accuracy Machine Learning–Based Colorimetric pH Quantification Using a Custom-Built Portable Strip-Imaging Device and Smartphone Application**<br>
-Bursalı, E. M., Özdemir, M. A., & Şen, M.<br>
-<em>Microchimica Acta, 192, 850, 2025</em> · [DOI](https://doi.org/10.1007/s00604-025-07682-0)
+<div class="lab-pub"><div class="t">High-Accuracy Machine Learning–Based Colorimetric pH Quantification Using a Custom-Built Portable Strip-Imaging Device and Smartphone Application</div><div class="a">Bursalı, E. M., Özdemir, M. A., & Şen, M.</div><div class="v">Microchimica Acta, 192, 850, 2025 · <a href="https://doi.org/10.1007/s00604-025-07682-0" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Custom-Formulated MWCNT Inks for Scalable Fabrication of Flexible Screen-Printed Electrodes**<br>
-Akkaş, T., Aykaç, A., & Şen, M.<br>
-<em>Nanotechnology, 2025</em> · [DOI](https://doi.org/10.1088/1361-6528/ae233a)
+<div class="lab-pub"><div class="t">Custom-Formulated MWCNT Inks for Scalable Fabrication of Flexible Screen-Printed Electrodes</div><div class="a">Akkaş, T., Aykaç, A., & Şen, M.</div><div class="v">Nanotechnology, 2025 · <a href="https://doi.org/10.1088/1361-6528/ae233a" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**A-to-I Editing Technologies: Unlocking New Avenues in Cancer Therapy**<br>
-Türkmen, H., Can, M., Demir, N., & Şen, M.<br>
-<em>Journal of Scientific Reports-A, 2025</em> · [DOI](https://doi.org/10.59313/jsr-a.1642298)
+<div class="lab-pub"><div class="t">A-to-I Editing Technologies: Unlocking New Avenues in Cancer Therapy</div><div class="a">Türkmen, H., Can, M., Demir, N., & Şen, M.</div><div class="v">Journal of Scientific Reports-A, 2025 · <a href="https://doi.org/10.59313/jsr-a.1642298" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
 ## 2024
 
-**Smartphone-Embedded Artificial Intelligence-Based Regression for Colorimetric Quantification of Multiple Analytes with a Microfluidic Paper-Based Analytical Device in Synthetic Tears**<br>
-<em>Advanced Intelligent Systems, 2024</em> · [DOI](https://doi.org/10.1002/aisy.202400202)
+<div class="lab-pub"><div class="t">Smartphone-Embedded Artificial Intelligence-Based Regression for Colorimetric Quantification of Multiple Analytes with a Microfluidic Paper-Based Analytical Device in Synthetic Tears</div><div class="v">Advanced Intelligent Systems, 2024 · <a href="https://doi.org/10.1002/aisy.202400202" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Unveiling the Potential: Can Machine Learning Cluster Colorimetric Images of Cold Atmospheric Plasma Treatment?**<br>
-<em>Advanced Intelligent Systems, 2024</em> · [DOI](https://doi.org/10.1002/aisy.202400029)
+<div class="lab-pub"><div class="t">Unveiling the Potential: Can Machine Learning Cluster Colorimetric Images of Cold Atmospheric Plasma Treatment?</div><div class="v">Advanced Intelligent Systems, 2024 · <a href="https://doi.org/10.1002/aisy.202400029" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Non-Toxic Flexible Screen-Printed MWCNT-Based Electrodes for Non-Invasive Biomedical Applications**<br>
-<em>Talanta, 2024</em> · [DOI](https://doi.org/10.1016/j.talanta.2023.125341)
+<div class="lab-pub"><div class="t">Non-Toxic Flexible Screen-Printed MWCNT-Based Electrodes for Non-Invasive Biomedical Applications</div><div class="v">Talanta, 2024 · <a href="https://doi.org/10.1016/j.talanta.2023.125341" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**A Disposable Sensor Based on One-Pot Synthesized Tungsten Oxide Nanostructure-Modified Screen Printed Electrodes for Selective Detection of Dopamine and Uric Acid**<br>
-<em>Analytical Sciences, 2024</em> · [DOI](https://doi.org/10.1007/s44211-023-00459-6)
+<div class="lab-pub"><div class="t">A Disposable Sensor Based on One-Pot Synthesized Tungsten Oxide Nanostructure-Modified Screen Printed Electrodes for Selective Detection of Dopamine and Uric Acid</div><div class="v">Analytical Sciences, 2024 · <a href="https://doi.org/10.1007/s44211-023-00459-6" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
 ## 2023
 
-**A Simple Microfluidic Redox Cycling-Based Device for High-Sensitive Detection of Dopamine Released from PC12 Cells**<br>
-<em>Journal of Electroanalytical Chemistry, 2023</em> · [DOI](https://doi.org/10.1016/j.jelechem.2023.117473)
+<div class="lab-pub"><div class="t">A Simple Microfluidic Redox Cycling-Based Device for High-Sensitive Detection of Dopamine Released from PC12 Cells</div><div class="v">Journal of Electroanalytical Chemistry, 2023 · <a href="https://doi.org/10.1016/j.jelechem.2023.117473" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Dopamine Detection from PC12 Cells with a Carbon-Fiber Microelectrode Controlled by a Homemade System**<br>
-<em>European Journal of Science and Technology, 2023</em> · [Article](https://dergipark.org.tr/en/pub/ejosat/article/1333346)
+<div class="lab-pub"><div class="t">Dopamine Detection from PC12 Cells with a Carbon-Fiber Microelectrode Controlled by a Homemade System</div><div class="v">European Journal of Science and Technology, 2023 · <a href="https://dergipark.org.tr/en/pub/ejosat/article/1333346" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> Article</a></div></div>
 
 ## 2022
 
-**Smartphone Embedded Deep Learning Approach for Highly Accurate and Automated Colorimetric Lactate Analysis in Sweat**<br>
-<em>Sensors and Actuators B: Chemical, 2022</em> · [DOI](https://doi.org/10.1016/j.snb.2022.132489)
+<div class="lab-pub"><div class="t">Smartphone Embedded Deep Learning Approach for Highly Accurate and Automated Colorimetric Lactate Analysis in Sweat</div><div class="v">Sensors and Actuators B: Chemical, 2022 · <a href="https://doi.org/10.1016/j.snb.2022.132489" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Colorimetric Detection of H₂O₂ with Fe₃O₄@Chi Nanozyme Modified µPADs Using Artificial Intelligence**<br>
-<em>Microchimica Acta, 2022</em> · [DOI](https://doi.org/10.1007/s00604-022-05474-4)
+<div class="lab-pub"><div class="t">Colorimetric Detection of H₂O₂ with Fe₃O₄@Chi Nanozyme Modified µPADs Using Artificial Intelligence</div><div class="v">Microchimica Acta, 2022 · <a href="https://doi.org/10.1007/s00604-022-05474-4" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Screen Printed Carbon Electrodes Modified with 3D Nanostructured Materials for Bioanalysis**<br>
-<em>Electroanalysis, 2022</em> · [DOI](https://doi.org/10.1002/elan.202100624)
+<div class="lab-pub"><div class="t">Screen Printed Carbon Electrodes Modified with 3D Nanostructured Materials for Bioanalysis</div><div class="v">Electroanalysis, 2022 · <a href="https://doi.org/10.1002/elan.202100624" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Synthesis of Hierarchical Heterocomposite of Graphene Foam/α-Fe₂O₃ Nanowires and Its Application on Glucose Biosensors**<br>
-<em>Journal of Alloys and Compounds, 2022</em> · [DOI](https://doi.org/10.1016/j.jallcom.2021.162688)
+<div class="lab-pub"><div class="t">Synthesis of Hierarchical Heterocomposite of Graphene Foam/α-Fe₂O₃ Nanowires and Its Application on Glucose Biosensors</div><div class="v">Journal of Alloys and Compounds, 2022 · <a href="https://doi.org/10.1016/j.jallcom.2021.162688" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
 ## 2021
 
-**Machine Learning-Based Colorimetric Determination of Glucose in Artificial Saliva with Different Reagents Using a Smartphone Coupled µPAD**<br>
-<em>Sensors and Actuators B: Chemical, 2021</em> · [DOI](https://doi.org/10.1016/j.snb.2020.129037)
+<div class="lab-pub"><div class="t">Machine Learning-Based Colorimetric Determination of Glucose in Artificial Saliva with Different Reagents Using a Smartphone Coupled µPAD</div><div class="v">Sensors and Actuators B: Chemical, 2021 · <a href="https://doi.org/10.1016/j.snb.2020.129037" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Non-Enzymatic Colorimetric Detection of Hydrogen Peroxide Using a µPAD Coupled with a Machine Learning-Based Smartphone App**<br>
-<em>Analyst, 2021</em> · [DOI](https://doi.org/10.1039/D1AN01888D)
+<div class="lab-pub"><div class="t">Non-Enzymatic Colorimetric Detection of Hydrogen Peroxide Using a µPAD Coupled with a Machine Learning-Based Smartphone App</div><div class="v">Analyst, 2021 · <a href="https://doi.org/10.1039/D1AN01888D" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**A Portable Smartphone-Based Platform with an Offline Image-Processing Tool for the Rapid Paper-Based Colorimetric Detection of Glucose in Artificial Saliva**<br>
-<em>Analytical Sciences, 2021</em> · [DOI](https://doi.org/10.2116/analsci.20P262)
+<div class="lab-pub"><div class="t">A Portable Smartphone-Based Platform with an Offline Image-Processing Tool for the Rapid Paper-Based Colorimetric Detection of Glucose in Artificial Saliva</div><div class="v">Analytical Sciences, 2021 · <a href="https://doi.org/10.2116/analsci.20P262" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Sensitive pH Measurement Using EGFET pH-Microsensor Based on ZnO Nanowire Functionalized Carbon-Fibers**<br>
-<em>Nanotechnology, 2021</em> · [DOI](https://doi.org/10.1088/1361-6528/ac0666)
+<div class="lab-pub"><div class="t">Sensitive pH Measurement Using EGFET pH-Microsensor Based on ZnO Nanowire Functionalized Carbon-Fibers</div><div class="v">Nanotechnology, 2021 · <a href="https://doi.org/10.1088/1361-6528/ac0666" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
 ## Selected Earlier Publications
 
-**Nanoporous Carbon-Fiber Microelectrodes for Sensitive Detection of H₂O₂ and Dopamine**<br>
-<em>Journal of Electroanalytical Chemistry, 2020</em> · [DOI](https://doi.org/10.1016/j.jelechem.2020.114104)
+<div class="lab-pub"><div class="t">Nanoporous Carbon-Fiber Microelectrodes for Sensitive Detection of H₂O₂ and Dopamine</div><div class="v">Journal of Electroanalytical Chemistry, 2020 · <a href="https://doi.org/10.1016/j.jelechem.2020.114104" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Guiding Neural Extensions of PC12 Cells on Carbon Nanotube Tracks Dielectrophoretically Formed in Poly(ethylene glycol) Dimethacrylate**<br>
-<em>RSC Advances, 2020</em>
+<div class="lab-pub"><div class="t">Guiding Neural Extensions of PC12 Cells on Carbon Nanotube Tracks Dielectrophoretically Formed in Poly(ethylene glycol) Dimethacrylate</div><div class="v">RSC Advances, 2020</div></div>
 
-**Using Electropolymerization-Based Doping for the Electro-Addressable Functionalization of a Multi-Electrode Array Probe for Nucleic Acid Detection**<br>
-<em>Analytical Sciences, 2019</em> · [DOI](https://doi.org/10.2116/analsci.18P324)
+<div class="lab-pub"><div class="t">Using Electropolymerization-Based Doping for the Electro-Addressable Functionalization of a Multi-Electrode Array Probe for Nucleic Acid Detection</div><div class="v">Analytical Sciences, 2019 · <a href="https://doi.org/10.2116/analsci.18P324" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Aspartic and Glutamic Acid Templated Peptides Conjugation on Plasma Modified Nanofibers for Osteogenic Differentiation of Human Mesenchymal Stem Cells**<br>
-<em>Scientific Reports, 2018</em> · [DOI](https://doi.org/10.1038/s41598-018-36109-5)
+<div class="lab-pub"><div class="t">Aspartic and Glutamic Acid Templated Peptides Conjugation on Plasma Modified Nanofibers for Osteogenic Differentiation of Human Mesenchymal Stem Cells</div><div class="v">Scientific Reports, 2018 · <a href="https://doi.org/10.1038/s41598-018-36109-5" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Micro/Nanoelectrochemical Probe and Chip Devices for Evaluation of Three-Dimensional Cultured Cells**<br>
-<em>Analyst, 2017</em> · [DOI](https://doi.org/10.1039/C7AN01442B)
+<div class="lab-pub"><div class="t">Micro/Nanoelectrochemical Probe and Chip Devices for Evaluation of Three-Dimensional Cultured Cells</div><div class="v">Analyst, 2017 · <a href="https://doi.org/10.1039/C7AN01442B" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Improving the Electrochemical Imaging Sensitivity of SECM-SICM by Using Electrochemical Pt Deposition**<br>
-<em>Analytical Chemistry, 2015</em> · [DOI](https://doi.org/10.1021/acs.analchem.5b00027)
+<div class="lab-pub"><div class="t">Improving the Electrochemical Imaging Sensitivity of SECM-SICM by Using Electrochemical Pt Deposition</div><div class="v">Analytical Chemistry, 2015 · <a href="https://doi.org/10.1021/acs.analchem.5b00027" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**LSI-Based Amperometric Sensor for Real-Time Monitoring of Embryoid Bodies**<br>
-<em>Biosensors and Bioelectronics, 2013</em> · [DOI](https://doi.org/10.1016/j.bios.2013.03.069)
+<div class="lab-pub"><div class="t">LSI-Based Amperometric Sensor for Real-Time Monitoring of Embryoid Bodies</div><div class="v">Biosensors and Bioelectronics, 2013 · <a href="https://doi.org/10.1016/j.bios.2013.03.069" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Cell Pairing Using a Dielectrophoresis-Based Device with Interdigitated Array Electrodes**<br>
-<em>Lab on a Chip, 2013</em> · [DOI](https://doi.org/10.1039/C3LC50561H)
+<div class="lab-pub"><div class="t">Cell Pairing Using a Dielectrophoresis-Based Device with Interdigitated Array Electrodes</div><div class="v">Lab on a Chip, 2013 · <a href="https://doi.org/10.1039/C3LC50561H" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Accumulation and Detection of Secreted Proteins from Single Cells for Reporter Gene Assays Using a Local Redox Cycling-Based Electrochemical Chip Device**<br>
-<em>Lab on a Chip, 2012</em> · [DOI](https://doi.org/10.1039/C2LC40674H)
+<div class="lab-pub"><div class="t">Accumulation and Detection of Secreted Proteins from Single Cells for Reporter Gene Assays Using a Local Redox Cycling-Based Electrochemical Chip Device</div><div class="v">Lab on a Chip, 2012 · <a href="https://doi.org/10.1039/C2LC40674H" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
 ## Selected Conference Proceedings
 
-**Efficacy of IR783-Mediated Photodynamic Therapy in 3D Ovarian Cancer Microtissues**<br>
-Yurtseven, E. C., Şen, M., & Topaloğlu, N.<br>
-<em>Conference Proceedings, 2026</em> · [DOI](https://doi.org/10.1117/12.3099932)
+<div class="lab-pub"><div class="t">Efficacy of IR783-Mediated Photodynamic Therapy in 3D Ovarian Cancer Microtissues</div><div class="a">Yurtseven, E. C., Şen, M., & Topaloğlu, N.</div><div class="v">Conference Proceedings, 2026 · <a href="https://doi.org/10.1117/12.3099932" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Real-Time Electrochemical Detection of Singlet Oxygen at the Single-Cell Level Using Platinum Microdisc Electrodes in Photodynamic Therapy**<br>
-Akkaş, T., Sirek, B., Şafak, E. G., Topaloğlu, N., & Şen, M.<br>
-<em>European Conferences on Biomedical Optics, 2025</em> · [DOI](https://doi.org/10.1364/ECBO.2025.Th4A.3)
+<div class="lab-pub"><div class="t">Real-Time Electrochemical Detection of Singlet Oxygen at the Single-Cell Level Using Platinum Microdisc Electrodes in Photodynamic Therapy</div><div class="a">Akkaş, T., Sirek, B., Şafak, E. G., Topaloğlu, N., & Şen, M.</div><div class="v">European Conferences on Biomedical Optics, 2025 · <a href="https://doi.org/10.1364/ECBO.2025.Th4A.3" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Photodynamic Potential of Prospero autumnale Leaf Extract against Prostate Cancer**<br>
-Yurtseven, E. C., Ceylan, E. S., Özay, C., & Topaloğlu, N.<br>
-<em>European Conferences on Biomedical Optics, 2025</em> · [DOI](https://doi.org/10.1364/ECBO.2025.Th4A.4)
+<div class="lab-pub"><div class="t">Photodynamic Potential of Prospero autumnale Leaf Extract against Prostate Cancer</div><div class="a">Yurtseven, E. C., Ceylan, E. S., Özay, C., & Topaloğlu, N.</div><div class="v">European Conferences on Biomedical Optics, 2025 · <a href="https://doi.org/10.1364/ECBO.2025.Th4A.4" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> DOI</a></div></div>
 
-**Development of a Flexible MWCNT–Prussian Blue Composite-Based Screen-Printed Sensor for High-Sensitivity Lactate Detection**<br>
-Akkaş, T., & Şen, M.<br>
-<em>International Biotechnology and Nanotechnology Congress, 2024</em>
+<div class="lab-pub"><div class="t">Development of a Flexible MWCNT–Prussian Blue Composite-Based Screen-Printed Sensor for High-Sensitivity Lactate Detection</div><div class="a">Akkaş, T., & Şen, M.</div><div class="v">International Biotechnology and Nanotechnology Congress, 2024</div></div>
 
-**Field Deployable and Disposable Multi-Walled Carbon Nanotube-Based Screen-Printed Electrode Sensors: Application in Bisphenol A Detection in Tap Water**<br>
-Şen, M., & Akkaş, T.<br>
-<em>7th EuroAsian Biodiversity Symposium, 2024</em>
+<div class="lab-pub"><div class="t">Field Deployable and Disposable Multi-Walled Carbon Nanotube-Based Screen-Printed Electrode Sensors: Application in Bisphenol A Detection in Tap Water</div><div class="a">Şen, M., & Akkaş, T.</div><div class="v">7th EuroAsian Biodiversity Symposium, 2024</div></div>
