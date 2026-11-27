@@ -7,22 +7,24 @@ nav: true
 nav_order: 5
 ---
 
-We welcome inquiries from researchers, prospective graduate students, academic institutions, and industry partners interested in biosensors, artificial intelligence, biomedical instrumentation, and interdisciplinary biomedical research.
+{% include lab_style.liquid %}
 
-For research collaborations, graduate research opportunities, or further information about our ongoing projects, please contact our principal investigator.
+We welcome inquiries from researchers, academic institutions and industry partners interested in biosensors, artificial intelligence, biomedical instrumentation and interdisciplinary biomedical research. For collaborations or information about our projects, please contact our principal investigator.
 
-**Prof. Dr. Mustafa Şen**<br>
-Principal Investigator<br>
-Department of Biomedical Engineering<br>
-Faculty of Engineering and Architecture<br>
-İzmir Kâtip Çelebi University<br>
-Balatçık Campus, Central Offices 1, Room 148<br>
-35620, Çiğli, İzmir, Türkiye
-
-Email: [mustafa.sen@ikcu.edu.tr](mailto:mustafa.sen@ikcu.edu.tr)
-
-## Join Our Research Group
-
-We welcome motivated students interested in interdisciplinary research at the intersection of engineering, biology, materials science, and artificial intelligence.
-
-Prospective students are encouraged to contact us with a brief description of their academic background, research interests, and CV.
+<div class="lab-grid">
+  <div class="lab-card">
+    <span class="lab-icon"><i class="fa-solid fa-user-tie"></i></span>
+    <h4>Prof. Dr. Mustafa Şen</h4>
+    <p>Principal Investigator<br>Department of Biomedical Engineering<br>Faculty of Engineering and Architecture</p>
+  </div>
+  <div class="lab-card">
+    <span class="lab-icon"><i class="fa-solid fa-location-dot"></i></span>
+    <h4>Address</h4>
+    <p>İzmir Kâtip Çelebi University<br>Balatçık Campus, Central Offices 1, Room 148<br>35620 Çiğli, İzmir, Türkiye</p>
+  </div>
+  <div class="lab-card">
+    <span class="lab-icon"><i class="fa-solid fa-envelope"></i></span>
+    <h4>Email</h4>
+    <p><a href="mailto:mustafa.sen@ikcu.edu.tr">mustafa.sen@ikcu.edu.tr</a></p>
+  </div>
+</div>
