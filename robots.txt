@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ikcu-sensorlab.github.io/sitemap.xml
